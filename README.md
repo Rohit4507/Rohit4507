@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning enthusiast with strong theoretical foundation from MIT 6.036 and hands-on experience building AI-driven educational systems. Skilled in Neural Networks, Transformer-based NLP, Retrieval-Augmented Generation (RAG), and Vector Databases. Focused on designing intelligent, scalable AI systems that combine ML theory with real-world applications.
+Machine Learning enthusiast with strong theoretical foundation and hands-on experience building AI-driven educational systems. Skilled in Neural Networks, Transformer-based NLP, Retrieval-Augmented Generation (RAG), and Vector Databases. Focused on designing intelligent, scalable AI systems that combine ML theory with real-world applications.
 
 
 ## 🌐 Socials:
