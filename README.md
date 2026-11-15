@@ -1,25 +1,24 @@
-# 💫 About Me:
-Machine Learning enthusiast with strong theoretical foundation and hands-on experience building AI-driven educational systems. Skilled in Neural Networks, Transformer-based NLP, Retrieval-Augmented Generation (RAG), and Vector Databases. Focused on designing intelligent, scalable AI systems that combine ML theory with real-world applications.
+# Rohit Singh Rajput
 
+B.Tech CSE, NIT Agartala (2028). I build and break ML systems: LLM evaluation, adversarial robustness, RAG.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/rohitsinghrajput94) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohitsingh_007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube.com/@Enxapse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitrajput33220@gmail.com) 
+## Now
+- Running the GCG and PAIR harness against a real aligned model
+- Writing up the Apart Research collusion-sprint results
+- Open to Summer 2027 internships in AI/ML, data science, and AI safety
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rohit4507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohit4507&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Selected work
+- [GCG_Implementation_Beginners](https://github.com/Rohit4507/GCG_Implementation_Beginners) - From-scratch GCG + PAIR jailbreak harness in PyTorch, 111 tests, CI, Docker
+- [PrismRisk](https://github.com/Rohit4507/PrismRisk) - Temporal credit decision and MLOps, ROC-AUC 0.8540 on locked test weeks
+- [AI-collusion-sprint-Apart](https://github.com/Rohit4507/AI-collusion-sprint-Apart) - Apart Research sprint, stress-testing an LLM collusion detector
+- [gpt2-style-emulation](https://github.com/Rohit4507/gpt2-style-emulation) - 12 fine-tuned GPT-2 checkpoints, StyleSim drift metric, FastAPI/Gradio in Docker
+- [ScholarGraph](https://github.com/Rohit4507/ScholarGraph) - 8-agent LangGraph research assistant, layered retrieval and knowledge graphs
+- [road-safety](https://github.com/Rohit4507/road-safety) - RoadGuard AI, YOLOv8 road-damage detection with GPS alerting
 
+## Stack
+Python, PyTorch, Hugging Face, LangGraph, FastAPI, Docker, RAG, MLflow, AWS
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohit4507&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rohit4507&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Elsewhere
+- Portfolio: https://enxapse.vercel.app
+- LinkedIn: https://www.linkedin.com/in/rohitsinghrajput94
+- Email: rohitrajput33220@gmail.com
