@@ -1,19 +1,16 @@
 # Rohit Singh Rajput
+B.Tech CSE, NIT Agartala (2024 to 2028), based in Agartala, India. AI Safety: LLM red teaming, evaluation, and mechanistic interpretability.
+Portfolio: https://enxapse.vercel.app
 
-B.Tech CSE, NIT Agartala (2024 to 2028), based in Agartala, India. I build and break ML systems: LLM evaluation, adversarial robustness, and interpretability.
+# 💫 About Me:
+🔭 I'm currently working on a GCG and PAIR LLM red teaming and evaluation harness<br>
+👯 I'm looking to collaborate on AI safety evaluations and open-source safety tooling<br>
+🌱 I'm currently learning mechanistic interpretability, and rebuilding the Transformer from scratch in PyTorch<br>
+💬 Ask me about LLM red teaming, evaluation, PyTorch
 
-## About
-I work on AI safety, mostly LLM red teaming and evaluation, with mechanistic interpretability as my second direction. My main project is a GCG and PAIR evaluation harness (Python, PyTorch, Docker) that I ran on a real aligned model, Qwen2.5-1.5B-Instruct, with matched-budget controls and transfer and defence runners. I completed the BlueDot Impact Technical AI Safety Course in 2026, and I am rebuilding the Transformer from scratch in PyTorch.
 
-## Now
-- Running the GCG and PAIR harness against a real aligned model, writeup in progress
-- Contributing to open-source AI safety tooling (nnsight, garak, TransformerLens, SAELens, control-arena)
-- Writing up the Apart Research collusion-sprint results
-- Open to Summer 2027 internships in AI/ML, data science, and AI safety
-
-## Experience
-- Bridges Team Lead, Omdena HOT fAIr GeoBench Project (Oct 2026 to present)
-- Writer, Mercor (Odin), independent contractor (Oct 2026 to present)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitsinghrajput94) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitrajput33220@gmail.com) 
 
 ## Open source contributions
 - [ndif-team/nnsight](https://github.com/ndif-team/nnsight/pull/844) - PR #844 merged: fixed TransformersModel dispatch on transformers 5.23
@@ -34,24 +31,14 @@ I work on AI safety, mostly LLM red teaming and evaluation, with mechanistic int
 - [ScholarGraph](https://github.com/Rohit4507/ScholarGraph) - 8-agent LangGraph research assistant, layered retrieval and knowledge graphs
 - [road-safety](https://github.com/Rohit4507/road-safety) - RoadGuard AI, YOLOv8 road-damage detection with GPS alerting
 
-## Fellowships and courses
-- BlueDot Impact Technical AI Safety Course, completed 2026
-- EAGxIndia 2026, selected applicant (fully funded)
-- CEA Introductory EA Program, completed 2026
-- Futurekind Spring Fellowship, completed 2026
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rohit4507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rohit4507&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit4507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Stack
-- Languages: Python, C, C++, JavaScript
-- ML / LLM: PyTorch, Hugging Face Transformers, fine-tuning, scikit-learn, XGBoost, LightGBM, TensorFlow
-- LLM systems: LangChain, LangGraph, RAG pipelines, Pinecone, semantic search
-- Evaluation: SHAP, DiCE, MAPIE, calibration, conformal prediction, drift monitoring
-- Engineering: FastAPI, Docker, MLflow, GitHub Actions, MongoDB, PostgreSQL, Gradio, Streamlit, AWS (EC2, ECR, EKS, S3)
-- Computer vision: YOLOv8, OpenCV
+---
+[![](https://komarev.com/ghpvc/?username=Rohit4507&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## GitHub stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohit4507&show_icons=true)
-
-## Elsewhere
-- Portfolio: https://enxapse.vercel.app
-- LinkedIn: https://www.linkedin.com/in/rohitsinghrajput94
-- Email: rohitrajput33220@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
