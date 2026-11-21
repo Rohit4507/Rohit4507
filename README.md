@@ -3,7 +3,7 @@
 B.Tech, NIT Agartala (2024–2028) · Agartala, India  
 AI Safety: LLM red teaming, evaluation, and mechanistic interpretability.
 
-Portfolio: [enxapse.vercel.app](https://enxapse.vercel.app) · ORCID: [0009-0007-3273-8797](https://orcid.org/0009-0007-3273-8797) · GitHub: [@Rohit4507](https://github.com/Rohit4507)
+Portfolio: [enxapse.vercel.app](https://enxapse.vercel.app)
 
 
 ## Selected work
