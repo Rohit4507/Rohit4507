@@ -38,6 +38,10 @@ Portfolio: https://enxapse.vercel.app
 ![](https://streak-stats.demolab.com/?user=Rohit4507&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohit4507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 📈 Contribution Graph
+
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohit4507&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://komarev.com/ghpvc/?username=Rohit4507&icon=0&color=0)](https://visitcount.itsvg.in)
 
